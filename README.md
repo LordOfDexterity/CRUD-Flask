@@ -11,5 +11,5 @@ pip install werkzeug==0.16.1
 
 # Files 
 - yoda.py - basic CRUD app with a dictionary
-- app.py - basic CRUD app with mongodb 
+- app.py - basic CRUD app with PyMongo
 - mong.py - CRUD app with mongodb using model files
